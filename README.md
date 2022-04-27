@@ -16,9 +16,9 @@ iex> SampleCodeElixir.run()
 ## Output
 Output is wrtitten to the following files:
 
-output_1_day_hour_minute_second.json
-output_1_day_hour_minute.json./output_1_day_hour.json
-output_60_days_ymd.json
+output_1_day_hour_minute_second.json  
+output_1_day_hour_minute.json./output_1_day_hour.json  
+output_60_days_ymd.json  
 
 
 
